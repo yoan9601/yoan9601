@@ -7,7 +7,7 @@
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yoan.boyadzhiev/)
-[![GitHub followers](https://img.shields.io/github/followers/yoan9601?style=for-the-badge&logo=github)](https://github.com/yoan9601)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yoan9601)
 
 </div>
 
@@ -60,43 +60,37 @@ I'm a passionate **Python developer in training**, currently studying at **SoftU
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Featured Project
+
+### 🐍 **[Small Python Projects](https://github.com/yoan9601/Small-Python-Projects)**
 
 <div align="center">
 
-![Yoan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoan9601&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoan9601&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yoan9601&theme=tokyonight&hide_border=true&background=0D1117)
+**A curated collection of 12 beginner-friendly Python projects**  
+*Each project showcases fundamental programming concepts with clean, well-documented code*
 
 </div>
 
----
+#### ✅ **Completed Projects (7/12)**
 
-## 🎯 Featured Projects
+| Project | Description | Key Concepts |
+|---------|-------------|--------------|
+| 💰 **Bill Calculator** | Restaurant bill splitter with tip calculation | Math operations, Input handling |
+| 🏝️ **Treasure Island** | Interactive text-based adventure game | Conditionals, Logic flow |
+| ✊ **Rock Paper Scissors** | Classic game with ASCII art | Loops, Random module |
+| 🔐 **Password Generator** | Secure password creation tool | Strings, Lists, Security |
+| 🎯 **Hangman** | Word-guessing game with hints | String manipulation, Loops |
+| 🔒 **Caesar Cipher** | Encryption/decryption tool | Algorithms, Modulo operations |
+| 🤫 **Blind Auction** | Secret bidding system | Dictionaries, Functions |
 
-<div align="center">
+#### 🔄 **In Progress**
+- ➕ **Calculator** — Full-featured calculator with operation history
+- 🃏 **Blackjack** — Casino-style card game with dealer AI
 
-[![Small Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=yoan9601&repo=Small-Python-Projects&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/yoan9601/Small-Python-Projects)
-
-</div>
-
-### 🐍 [Small Python Projects](https://github.com/yoan9601/Small-Python-Projects)
-A curated collection of **12 beginner-friendly Python projects** showcasing fundamental programming concepts. Each project is well-documented and portfolio-ready.
-
-**Completed Projects:**
-- ✅ Bill Calculator — Restaurant bill splitter
-- ✅ Treasure Island — Interactive text adventure
-- ✅ Rock Paper Scissors — Classic game with ASCII art
-- ✅ Password Generator — Secure password creation tool
-- ✅ Hangman — Word guessing game
-- ✅ Caesar Cipher — Encryption/decryption tool
-- ✅ Blind Auction — Secret bidding system
-
-**In Progress:**
-- 🔄 Calculator — Full-featured calculator app
-- 🔜 Blackjack — Casino-style card game
+#### 🔜 **Coming Soon**
+- 🔢 Guess the Number
+- 📊 Higher-Lower Game
+- ☕ Coffee Machine (OOP)
 
 ---
 
@@ -105,50 +99,132 @@ A curated collection of **12 beginner-friendly Python projects** showcasing fund
 <div align="center">
 
 | Phase | Focus Area | Status |
-|-------|-----------|--------|
-| 🌱 **Beginner** | Python Basics, Control Flow | ✅ Complete |
-| 🚀 **Elementary** | Functions, Data Structures | 🔄 In Progress |
-| 💎 **Intermediate** | OOP, Algorithms | 🔜 Coming Soon |
+|:-----:|:----------:|:------:|
+| 🌱 **Beginner** | Python Basics, Control Flow, Functions | ✅ Complete |
+| 🚀 **Elementary** | Data Structures, Algorithms, File I/O | 🔄 In Progress |
+| 💎 **Intermediate** | OOP, APIs, Databases, Web Frameworks | 🔜 Coming Soon |
 
 </div>
 
 ---
 
-## 🎓 Education & Courses
+## 🎓 Education & Learning
 
 - 🏫 **SoftUni** — Software Engineering Student
 - 📖 **100 Days of Code** — The Complete Python Pro Bootcamp by Angela Yu
 - 💻 **Self-taught** — Continuous learning through documentation and practice
+- 🧩 **Problem Solving** — Regular coding challenges and exercises
+
+---
+
+## 🛠️ Skills & Technologies
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### **Languages**
+- 🐍 Python 3.8+
+- 📝 Markdown
+- 💾 Basic SQL
+
+### **Tools & Platforms**
+- 🔧 Git & GitHub
+- 💻 VS Code
+- 🐧 Linux Terminal
+- 📦 Pip & Virtual Environments
+
+</td>
+<td valign="top" width="50%">
+
+### **Concepts**
+- ✅ Variables & Data Types
+- ✅ Control Flow (if/else, loops)
+- ✅ Functions & Parameters
+- ✅ Data Structures (lists, dicts, tuples)
+- 🔄 Object-Oriented Programming
+- 🔜 File I/O & Exception Handling
+- 🔜 APIs & Web Scraping
+
+### **Soft Skills**
+- 📝 Technical Documentation
+- 🎯 Problem Solving
+- 📚 Self-Learning
+- 💪 Persistence
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Goals & Roadmap
+
+### **Q4 2025 (Current - Dec 2025)**
+- [x] Create professional GitHub profile
+- [x] Complete 7 Python projects
+- [ ] Finish all 12 Small Python Projects by year end
+- [ ] Complete Calculator and Blackjack projects
+- [ ] Master Python OOP concepts
+
+### **Q1 2026 (Jan - Mar)**
+- [ ] Start Intermediate-Python-Projects repository
+- [ ] Build 3+ projects with APIs and databases
+- [ ] Learn Flask or Django framework basics
+- [ ] Continue SoftUni courses
+- [ ] Create personal portfolio website
+
+### **Q2-Q4 2026 (Apr - Dec)**
+- [ ] Build 5+ intermediate/advanced projects
+- [ ] Contribute to open source projects
+- [ ] Master data structures & algorithms
+- [ ] Complete SoftUni program
+- [ ] **Land first junior developer position** 🎯
+- [ ] Network with developers in Sofia tech community
 
 ---
 
 ## 🌟 What I'm Looking For
 
-- 💼 **Junior Python Developer** positions
-- 🤝 **Open Source** collaboration opportunities
+- 💼 **Junior Python Developer** positions in Sofia or remote
+- 🤝 **Collaboration** on beginner-friendly open source projects
 - 📖 **Mentorship** from experienced developers
-- 🚀 **Projects** to contribute to and learn from
+- 🚀 **Learning opportunities** to grow my skills
+- 👥 **Networking** with other developers and students
 
 ---
 
-## 📈 2025 Goals
+## 💡 Fun Facts About Me
 
-- [ ] Complete all 12 Small Python Projects
-- [ ] Build 5+ Intermediate Python projects (APIs, databases, web apps)
-- [ ] Contribute to open source projects
-- [ ] Land first junior developer position
-- [ ] Master OOP and data structures
-- [ ] Learn Django/Flask framework
+```python
+fun_facts = {
+    "coding_philosophy": "Learn by building, fail fast, improve faster",
+    "documentation": "I believe good code should tell a story",
+    "powered_by": ["Coffee", "Curiosity", "Determination"],
+    "when_not_coding": ["Gaming", "Exploring new tech", "Reading tech blogs"],
+    "superpower": "Turning complex problems into simple solutions",
+    "favorite_emoji": "🚀",
+    "motto": "Every expert was once a beginner"
+}
+```
 
 ---
 
-## 💡 Fun Facts
+## 📊 GitHub Activity
 
-- 🎯 I believe in **learning by building** — every project teaches something new
-- 📝 I document everything — good code should be self-explanatory
-- 🌍 Based in **Sofia, Bulgaria** — open to remote opportunities
-- ☕ Powered by **coffee** and **curiosity**
-- 🎮 When not coding, I enjoy gaming and exploring new tech
+<div align="center">
+
+**🔥 7 Projects Completed** | **📚 12 Total Planned** | **⭐ Growing Every Day**
+
+</div>
+
+### **Recent Activity**
+- ✅ Created professional GitHub profile README (Nov 2025)
+- ✅ Completed Blind Auction project with dictionary data structures
+- ✅ Implemented Caesar Cipher encryption algorithm
+- ✅ Built Hangman game with word lists and ASCII art
+- 🔄 Currently working on Calculator with advanced features
+- 🔜 Next up: Blackjack game with OOP principles
 
 ---
 
@@ -156,25 +232,50 @@ A curated collection of **12 beginner-friendly Python projects** showcasing fund
 
 <div align="center">
 
-💬 **Open to collaborations, questions, and networking!**
+**💬 I'm always open to interesting conversations and collaborations!**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yoan.boyadzhiev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yoan9601)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoan.boyadzhiev1@gmail.com)
+
+**📧 Email:** yoan.boyadzhiev1@gmail.com
+
+**Feel free to reach out for:**
+- Collaboration opportunities
+- Questions about my projects
+- Tech discussions
+- Advice or mentorship exchange
+- Just to say hi! 👋
 
 </div>
 
 ---
 
-<div align="center">
+## 📝 Latest Blog Posts & Updates
 
-### ⭐ If you find my projects interesting, feel free to star them!
+> Coming soon! Planning to start documenting my learning journey and sharing insights from my projects.
 
-**"Code is like humor. When you have to explain it, it's bad." — Cory House**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yoan9601&color=blueviolet&style=for-the-badge)
+**Topics I want to write about:**
+- 📘 My journey from zero to Python developer
+- 🎓 Learning at SoftUni - tips and experiences
+- 💻 Building my first 12 Python projects
+- 🐛 Common mistakes I made and how I fixed them
+- 🚀 Transitioning from beginner to intermediate
 
 ---
 
-**Thanks for stopping by! Happy coding! 🚀**
+<div align="center">
+
+### ⭐ If you find my projects interesting, please consider starring them!
+
+**"The only way to do great work is to love what you do." — Steve Jobs**
+
+---
+
+**Thanks for visiting my profile! Happy coding! 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yoan9601&color=blueviolet&style=flat-square)
+
+**Last Updated:** November 29, 2025
 
 </div>
