@@ -23,7 +23,7 @@ class Developer:
         self.education = "SoftUni Student"
         self.current_focus = ["Python", "Problem Solving", "Portfolio Building"]
         self.learning = ["OOP", "Data Structures", "Algorithms"]
-        self.goals_2025 = ["Land first junior developer role", "Master Python fundamentals"]
+        self.goals_2026 = ["Complete 12 beginner projects", "Master intermediate Python", "Land junior developer role"]
     
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing together 🚀")
@@ -44,6 +44,7 @@ I'm a passionate **Python developer in training**, currently studying at **SoftU
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -53,7 +54,7 @@ I'm a passionate **Python developer in training**, currently studying at **SoftU
 ## 🔥 Current Focus
 
 - 🎓 **Studying at SoftUni** — Building strong programming fundamentals
-- 🐍 **Completing Small Python Projects** — 7 out of 12 projects done
+- 🐍 **Completing Small Python Projects** — 9 out of 12 projects done (75%)
 - 📚 **Learning Object-Oriented Programming** — Classes, inheritance, encapsulation
 - 💼 **Building Portfolio** — Preparing for junior developer positions
 - 🧠 **Daily Coding Practice** — Improving problem-solving skills
@@ -131,6 +132,7 @@ I'm a passionate **Python developer in training**, currently studying at **SoftU
 ### **Tools & Platforms**
 - 🔧 Git & GitHub
 - 💻 VS Code
+- 🐍 PyCharm
 - 🐧 Linux Terminal
 - 📦 Pip & Virtual Environments
 
@@ -162,25 +164,28 @@ I'm a passionate **Python developer in training**, currently studying at **SoftU
 
 ### **Q4 2025 (Current - Dec 2025)**
 - [x] Create professional GitHub profile
-- [x] Complete 7 Python projects
+- [x] Complete 9 Python projects (75% of Small Projects)
+- [x] Finish Guess the Number project
+- [x] Complete Calculator project
 - [ ] Finish all 12 Small Python Projects by year end
-- [ ] Complete Calculator and Blackjack projects
-- [ ] Master Python OOP concepts
+- [ ] Complete Blackjack project with OOP
+- [ ] Master Python fundamentals and OOP basics
 
 ### **Q1 2026 (Jan - Mar)**
+- [ ] Complete remaining Small Projects (Higher-Lower, Coffee Machine)
 - [ ] Start Intermediate-Python-Projects repository
 - [ ] Build 3+ projects with APIs and databases
-- [ ] Learn Flask or Django framework basics
-- [ ] Continue SoftUni courses
-- [ ] Create personal portfolio website
+- [ ] Learn Flask framework basics
+- [ ] Continue and advance in SoftUni courses
 
 ### **Q2-Q4 2026 (Apr - Dec)**
 - [ ] Build 5+ intermediate/advanced projects
+- [ ] Master Django or Flask for web development
 - [ ] Contribute to open source projects
-- [ ] Master data structures & algorithms
 - [ ] Complete SoftUni program
-- [ ] **Land first junior developer position** 🎯
-- [ ] Network with developers in Sofia tech community
+- [ ] Build full-stack portfolio website
+- [ ] **Land first junior Python developer position** 🎯
+- [ ] Network with Sofia tech community
 
 ---
 
@@ -214,16 +219,17 @@ fun_facts = {
 
 <div align="center">
 
-**🔥 7 Projects Completed** | **📚 12 Total Planned** | **⭐ Growing Every Day**
+**🔥 9 Projects Completed** | **📚 12 Total Planned** | **⭐ 75% Complete**
 
 </div>
 
 ### **Recent Activity**
-- ✅ Created professional GitHub profile README (Nov 2025)
+- ✅ Completed Calculator project with arithmetic operations (Nov 2025)
+- ✅ Completed Guess the Number with 3 difficulty levels (Nov 2025)
+- ✅ Created modular code design with separate logo.py module
 - ✅ Completed Blind Auction project with dictionary data structures
 - ✅ Implemented Caesar Cipher encryption algorithm
 - ✅ Built Hangman game with word lists and ASCII art
-- 🔄 Currently working on Calculator with advanced features
 - 🔜 Next up: Blackjack game with OOP principles
 
 ---
@@ -256,11 +262,11 @@ fun_facts = {
 > Coming soon! Planning to start documenting my learning journey and sharing insights from my projects.
 
 **Topics I want to write about:**
-- 📘 My journey from zero to Python developer
+- 📘 My journey from zero to Python developer in 2025-2026
 - 🎓 Learning at SoftUni - tips and experiences
-- 💻 Building my first 12 Python projects
-- 🐛 Common mistakes I made and how I fixed them
-- 🚀 Transitioning from beginner to intermediate
+- 💻 Building 12 Python projects - lessons learned
+- 🐛 Common beginner mistakes and how I fixed them
+- 🚀 Roadmap from beginner to job-ready developer
 
 ---
 
