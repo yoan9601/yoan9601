@@ -54,6 +54,7 @@ I'm a passionate **Python developer in training**, currently studying at **SoftU
 ## 🔥 Current Focus
 
 - 🎓 **Studying at SoftUni** — Building strong programming fundamentals
+- 💻 **Learning Vibe Coding** — Modern development practices and workflows
 - 🐍 **Completing Small Python Projects** — 9 out of 12 projects done (75%)
 - 📚 **Learning Object-Oriented Programming** — Classes, inheritance, encapsulation
 - 💼 **Building Portfolio** — Preparing for junior developer positions
@@ -72,7 +73,7 @@ I'm a passionate **Python developer in training**, currently studying at **SoftU
 
 </div>
 
-#### ✅ **Completed Projects (7/12)**
+#### ✅ **Completed Projects (9/12)**
 
 | Project | Description | Key Concepts |
 |---------|-------------|--------------|
@@ -83,15 +84,13 @@ I'm a passionate **Python developer in training**, currently studying at **SoftU
 | 🎯 **Hangman** | Word-guessing game with hints | String manipulation, Loops |
 | 🔒 **Caesar Cipher** | Encryption/decryption tool | Algorithms, Modulo operations |
 | 🤫 **Blind Auction** | Secret bidding system | Dictionaries, Functions |
+| 🎲 **Guess the Number** | Number guessing with 3 difficulty levels & ASCII logo | While loops, Modular design |
+| ➕ **Calculator** | Arithmetic calculator with continuous mode | Functions, Recursion, Dictionaries |
 
-#### 🔄 **In Progress**
-- ➕ **Calculator** — Full-featured calculator with operation history
-- 🃏 **Blackjack** — Casino-style card game with dealer AI
-
-#### 🔜 **Coming Soon**
-- 🔢 Guess the Number
-- 📊 Higher-Lower Game
-- ☕ Coffee Machine (OOP)
+#### 🔜 **Coming Soon (3/12)**
+- 🃏 **Blackjack** — Casino-style card game with OOP
+- 📊 **Higher-Lower Game** — Social media comparison game
+- ☕ **Coffee Machine** — OOP coffee simulator
 
 ---
 
@@ -112,8 +111,9 @@ I'm a passionate **Python developer in training**, currently studying at **SoftU
 ## 🎓 Education & Learning
 
 - 🏫 **SoftUni** — Software Engineering Student
+- 💻 **Vibe Coding Course** — Modern development practices and workflows
 - 📖 **100 Days of Code** — The Complete Python Pro Bootcamp by Angela Yu
-- 💻 **Self-taught** — Continuous learning through documentation and practice
+- 🧠 **Self-taught** — Continuous learning through documentation and practice
 - 🧩 **Problem Solving** — Regular coding challenges and exercises
 
 ---
@@ -162,23 +162,26 @@ I'm a passionate **Python developer in training**, currently studying at **SoftU
 
 ## 📈 Goals & Roadmap
 
-### **Q4 2025 (Current - Dec 2025)**
+### **Q4 2025 (Oct - Dec 2025) - ✅ Complete**
 - [x] Create professional GitHub profile
 - [x] Complete 9 Python projects (75% of Small Projects)
-- [x] Finish Guess the Number project
-- [x] Complete Calculator project
-- [ ] Finish all 12 Small Python Projects by year end
-- [ ] Complete Blackjack project with OOP
-- [ ] Master Python fundamentals and OOP basics
+- [x] Finish Guess the Number with modular design and ASCII art
+- [x] Complete Calculator with arithmetic operations
+- [x] Start Vibe Coding course
 
-### **Q1 2026 (Jan - Mar)**
-- [ ] Complete remaining Small Projects (Higher-Lower, Coffee Machine)
+### **Q1 2026 (Jan - Mar 2026) - Current**
+- [x] Build first Vibe Coding project (Telegram 2FA Authentication)
+- [ ] Finish all 12 Small Python Projects (Blackjack, Higher-Lower, Coffee Machine)
+- [ ] Master Python fundamentals and OOP basics
+- [ ] Build 2-3 more Vibe Coding projects
+- [ ] Apply modern development practices from Vibe Coding
 - [ ] Start Intermediate-Python-Projects repository
 - [ ] Build 3+ projects with APIs and databases
 - [ ] Learn Flask framework basics
 - [ ] Continue and advance in SoftUni courses
 
 ### **Q2-Q4 2026 (Apr - Dec)**
+- [ ] Complete Vibe Coding course with multiple projects
 - [ ] Build 5+ intermediate/advanced projects
 - [ ] Master Django or Flask for web development
 - [ ] Contribute to open source projects
@@ -219,18 +222,18 @@ fun_facts = {
 
 <div align="center">
 
-**🔥 9 Projects Completed** | **📚 12 Total Planned** | **⭐ 75% Complete**
+**🔥 10 Projects Completed** | **📚 2 Active Repositories** | **⭐ 75% Small Projects Complete**
 
 </div>
 
 ### **Recent Activity**
+- ✅ Completed Telegram 2FA Authentication for Vibe Coding (Jan 2026)
+- ✅ Started Vibe Coding course - learning modern development practices (Dec 2025)
 - ✅ Completed Calculator project with arithmetic operations (Nov 2025)
-- ✅ Completed Guess the Number with 3 difficulty levels (Nov 2025)
+- ✅ Completed Guess the Number with 3 difficulty levels & modular design (Nov 2025)
 - ✅ Created modular code design with separate logo.py module
 - ✅ Completed Blind Auction project with dictionary data structures
-- ✅ Implemented Caesar Cipher encryption algorithm
-- ✅ Built Hangman game with word lists and ASCII art
-- 🔜 Next up: Blackjack game with OOP principles
+- 🔜 Next up: Continue with Vibe Coding projects & Blackjack with OOP
 
 ---
 
@@ -282,6 +285,6 @@ fun_facts = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yoan9601&color=blueviolet&style=flat-square)
 
-**Last Updated:** November 29, 2025
+**Last Updated:** January 04, 2026
 
 </div>
